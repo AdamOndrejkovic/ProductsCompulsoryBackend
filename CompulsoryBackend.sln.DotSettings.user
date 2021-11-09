@@ -1,0 +1,23 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\adamo\AppData\Local\Temp\JetBrains\Rider\vAny\CoverageData\_CompulsoryBackend.-1080389389\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=31adb194_002D076a_002D483b_002Db103_002D04f124ac18ad/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ProductClass_Exists" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0F4FC57F-C23E-4D1A-9F8F-61D04C765472::net5.0::Compulsory.Core.Test.ProductTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0F4FC57F-C23E-4D1A-9F8F-61D04C765472::net5.0::Compulsory.Core.Test.UserTest.UserClass_Exists&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0F4FC57F-C23E-4D1A-9F8F-61D04C765472::net5.0::Compulsory.Core.Test.UserTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0F4FC57F-C23E-4D1A-9F8F-61D04C765472::net5.0::Compulsory.Core.Test.AdminTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0F4FC57F-C23E-4D1A-9F8F-61D04C765472::net5.0::Compulsory.Core.Test.IService.InterfaceAdminServiceTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0F4FC57F-C23E-4D1A-9F8F-61D04C765472::net5.0::Compulsory.Core.Test.IService.InterfaceUserServiceTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0F4FC57F-C23E-4D1A-9F8F-61D04C765472::net5.0::Compulsory.Core.Test.IService.InterfaceProductServiceTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::76AF133A-96B7-45CF-A7A5-49924D664230::net5.0::Compulsory.Core.Domain.UserServiceTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::76AF133A-96B7-45CF-A7A5-49924D664230::net5.0::Compulsory.Core.Domain.AdminServiceTest.AdminService_IsIAdminService&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::76AF133A-96B7-45CF-A7A5-49924D664230::net5.0::Compulsory.Core.Domain.AdminServiceTest.AdminService_WithNullAdminRepository_ThrowsExceptionWithMessage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::76AF133A-96B7-45CF-A7A5-49924D664230::net5.0::Compulsory.Core.Domain.ProductServiceTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::EA113EB4-8D2D-4956-9426-CECE93C0F4B3::net5.0::Compulsory.Infrastructure.Test.MainDbContextTest.DbContext_WithDbContextOptions_IsAvailable&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::EA113EB4-8D2D-4956-9426-CECE93C0F4B3::net5.0::Compulsory.Infrastructure.Test.MainDbContextTest.DbContext_DbSets_MustHaveDbSetWithTypeProduct&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::EA113EB4-8D2D-4956-9426-CECE93C0F4B3::net5.0::Compulsory.Infrastructure.Test.ProductRepositoryTest.ProductRepository_IsIProductRepository&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::EA113EB4-8D2D-4956-9426-CECE93C0F4B3::net5.0::Compulsory.Infrastructure.Test.ProductRepositoryTest.FindAll_GetAllProductsEntitiesInDBContext_AsAListOfProduct&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::EA113EB4-8D2D-4956-9426-CECE93C0F4B3::net5.0::Compulsory.Infrastructure.Test.ProductRepositoryTest.DeleteProduct_DeleteProductInDBContext_ReturnBoolean&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::EA113EB4-8D2D-4956-9426-CECE93C0F4B3::net5.0::Compulsory.Infrastructure.Test.ProductRepositoryTest.UpdateProduct_UpdateProductInDBContext_ReturnBoolean&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

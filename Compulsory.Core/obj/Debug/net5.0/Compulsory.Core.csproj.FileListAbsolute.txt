@@ -1,0 +1,12 @@
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Core\bin\Debug\net5.0\Compulsory.Core.deps.json
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Core\bin\Debug\net5.0\Compulsory.Core.dll
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Core\bin\Debug\net5.0\ref\Compulsory.Core.dll
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Core\bin\Debug\net5.0\Compulsory.Core.pdb
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Core\obj\Debug\net5.0\Compulsory.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Core\obj\Debug\net5.0\Compulsory.Core.AssemblyInfoInputs.cache
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Core\obj\Debug\net5.0\Compulsory.Core.AssemblyInfo.cs
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Core\obj\Debug\net5.0\Compulsory.Core.csproj.CoreCompileInputs.cache
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Core\obj\Debug\net5.0\Compulsory.Core.dll
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Core\obj\Debug\net5.0\ref\Compulsory.Core.dll
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Core\obj\Debug\net5.0\Compulsory.Core.pdb
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Core\obj\Debug\net5.0\Compulsory.Core.csproj.AssemblyReference.cache

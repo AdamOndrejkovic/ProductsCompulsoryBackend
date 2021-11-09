@@ -1,0 +1,16 @@
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Infrastructure\bin\Debug\net5.0\Compulsory.Infrastructure.deps.json
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Infrastructure\bin\Debug\net5.0\Compulsory.Infrastructure.dll
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Infrastructure\bin\Debug\net5.0\ref\Compulsory.Infrastructure.dll
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Infrastructure\bin\Debug\net5.0\Compulsory.Infrastructure.pdb
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Infrastructure\obj\Debug\net5.0\Compulsory.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Infrastructure\obj\Debug\net5.0\Compulsory.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Infrastructure\obj\Debug\net5.0\Compulsory.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Infrastructure\obj\Debug\net5.0\Compulsory.Infrastructure.AssemblyInfo.cs
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Infrastructure\obj\Debug\net5.0\Compulsory.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Infrastructure\obj\Debug\net5.0\Compulsory.Infrastructure.dll
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Infrastructure\obj\Debug\net5.0\ref\Compulsory.Infrastructure.dll
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Infrastructure\obj\Debug\net5.0\Compulsory.Infrastructure.pdb
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Infrastructure\bin\Debug\net5.0\Compulsory.Core.dll
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Infrastructure\bin\Debug\net5.0\Compulsory.Domain.dll
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Infrastructure\bin\Debug\net5.0\Compulsory.Domain.pdb
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Infrastructure\bin\Debug\net5.0\Compulsory.Core.pdb

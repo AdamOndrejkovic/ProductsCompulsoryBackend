@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Compulsory.Domain/1.0.0": {
+        "dependencies": {
+          "Compulsory.Core": "1.0.0"
+        },
+        "runtime": {
+          "Compulsory.Domain.dll": {}
+        }
+      },
+      "Compulsory.Core/1.0.0": {
+        "runtime": {
+          "Compulsory.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Compulsory.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Compulsory.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
