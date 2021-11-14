@@ -14,3 +14,4 @@ C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Infrastructure
 C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Infrastructure\bin\Debug\net5.0\Compulsory.Domain.dll
 C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Infrastructure\bin\Debug\net5.0\Compulsory.Domain.pdb
 C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Infrastructure\bin\Debug\net5.0\Compulsory.Core.pdb
+C:\Users\adamo\RiderProjects\ProductsCompulsoryBackend\Compulsory.Infrastructure\obj\Debug\net5.0\Compulsory.Infrastructure.csproj.CopyComplete

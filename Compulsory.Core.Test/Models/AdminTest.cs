@@ -36,14 +36,14 @@ namespace Compulsory.Core.Test
             Assert.True(_admin.Username is string);
         }
 
-        [Fact]
-        public void AdminClass_HasPassword_WithTypeString()
+        /*[Fact]
+        public void AdminClass_HasPassword_WithTypeByteArray()
         {
             var expected = "BigBoss";
-            _admin.Password = "BigBoss";
-            Assert.Equal(expected, _admin.Password);
-            Assert.True(_admin.Password is string);
-        }
+            _admin.PasswordHash = "51 90 f1 20 d5 75 d0 c5 42 57 ";
+            Assert.Equal(expected, _admin.PasswordHash);
+            Assert.True(_admin.Password is byte[]);
+        }*/
 
         [Fact]
         public void AdminClass_HasCanCreate_WithTypeBoolean()

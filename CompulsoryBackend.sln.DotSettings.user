@@ -19,5 +19,11 @@
     &lt;TestId&gt;xUnit::EA113EB4-8D2D-4956-9426-CECE93C0F4B3::net5.0::Compulsory.Infrastructure.Test.ProductRepositoryTest.FindAll_GetAllProductsEntitiesInDBContext_AsAListOfProduct&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::EA113EB4-8D2D-4956-9426-CECE93C0F4B3::net5.0::Compulsory.Infrastructure.Test.ProductRepositoryTest.DeleteProduct_DeleteProductInDBContext_ReturnBoolean&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::EA113EB4-8D2D-4956-9426-CECE93C0F4B3::net5.0::Compulsory.Infrastructure.Test.ProductRepositoryTest.UpdateProduct_UpdateProductInDBContext_ReturnBoolean&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3E417B11-5DA8-4D79-B2CC-EDFBF7CF2605::net5.0::Compulsory.Presentation.Test.ProductControllerTest.ProductController_HasProductService_IsOfTypeControllerBase&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3E417B11-5DA8-4D79-B2CC-EDFBF7CF2605::net5.0::Compulsory.Presentation.Test.ProductControllerTest.ProductController_WithNullProductService_ThrowsException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3E417B11-5DA8-4D79-B2CC-EDFBF7CF2605::net5.0::Compulsory.Presentation.Test.ProductControllerTest.ProductController_WithNullProductService_ThrowsExceptionWithMessage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3E417B11-5DA8-4D79-B2CC-EDFBF7CF2605::net5.0::Compulsory.Presentation.Test.ProductControllerTest.ProductController_UsesApiControllerAttribute&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3E417B11-5DA8-4D79-B2CC-EDFBF7CF2605::net5.0::Compulsory.Presentation.Test.ProductControllerTest.ProductController_UsesRouteAttribute_WithParamApiControllerNameRoute&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3E417B11-5DA8-4D79-B2CC-EDFBF7CF2605::net5.0::Compulsory.Presentation.Test.ProductControllerTest.GetAll_WithNoParams_HasGetHttpAttribute&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
