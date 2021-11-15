@@ -1,0 +1,264 @@
+﻿<changelist name="Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]" date="1636963533550" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 11/15/2021 9:05 AM [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Domain/bin/Debug/net5.0/Compulsory.Domain.dll" />
+    <option name="AFTER_PATH" value="Compulsory.Domain/bin/Debug/net5.0/Compulsory.Domain.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Domain.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Domain.dll" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Domain.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Domain1.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Domain/bin/Debug/net5.0/Compulsory.Core.dll" />
+    <option name="AFTER_PATH" value="Compulsory.Domain/bin/Debug/net5.0/Compulsory.Core.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Core.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure.Test/obj/project.nuget.cache" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure.Test/obj/project.nuget.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/project.nuget.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Core.Test/obj/Debug/net5.0/Compulsory.Core.Test.dll" />
+    <option name="AFTER_PATH" value="Compulsory.Core.Test/obj/Debug/net5.0/Compulsory.Core.Test.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Core.Test.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Core/bin/Debug/net5.0/Compulsory.Core.dll" />
+    <option name="AFTER_PATH" value="Compulsory.Core/bin/Debug/net5.0/Compulsory.Core.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Core1.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Domain/obj/Debug/net5.0/Compulsory.Domain.dll" />
+    <option name="AFTER_PATH" value="Compulsory.Domain/obj/Debug/net5.0/Compulsory.Domain.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Domain2.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Core.Domain/bin/Debug/net5.0/Compulsory.Core.dll" />
+    <option name="AFTER_PATH" value="Compulsory.Core.Domain/bin/Debug/net5.0/Compulsory.Core.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Core2.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Core.Test/bin/Debug/net5.0/Compulsory.Core.pdb" />
+    <option name="AFTER_PATH" value="Compulsory.Core.Test/bin/Debug/net5.0/Compulsory.Core.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Core.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure/obj/Debug/net5.0/Compulsory.Infrastructure.dll" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure/obj/Debug/net5.0/Compulsory.Infrastructure.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Infrastructure.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Core.Domain/bin/Debug/net5.0/Compulsory.Core.Domain.dll" />
+    <option name="AFTER_PATH" value="Compulsory.Core.Domain/bin/Debug/net5.0/Compulsory.Core.Domain.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Core.Domain.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Domain/obj/Debug/net5.0/Compulsory.Domain.pdb" />
+    <option name="AFTER_PATH" value="Compulsory.Domain/obj/Debug/net5.0/Compulsory.Domain.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Domain.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Core/bin/Debug/net5.0/Compulsory.Core.pdb" />
+    <option name="AFTER_PATH" value="Compulsory.Core/bin/Debug/net5.0/Compulsory.Core.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Core1.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure/obj/Debug/net5.0/Compulsory.Infrastructure.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure/obj/Debug/net5.0/Compulsory.Infrastructure.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Infrastructure.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Core.Domain/obj/Debug/net5.0/Compulsory.Core.Domain.dll" />
+    <option name="AFTER_PATH" value="Compulsory.Core.Domain/obj/Debug/net5.0/Compulsory.Core.Domain.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Core.Domain1.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Core/obj/project.nuget.cache" />
+    <option name="AFTER_PATH" value="Compulsory.Core/obj/project.nuget.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/project.nuget1.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Domain/obj/project.nuget.cache" />
+    <option name="AFTER_PATH" value="Compulsory.Domain/obj/project.nuget.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/project.nuget2.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Core.Domain/obj/Debug/net5.0/Compulsory.Core.Domain.pdb" />
+    <option name="AFTER_PATH" value="Compulsory.Core.Domain/obj/Debug/net5.0/Compulsory.Core.Domain.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Core.Domain.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Infrastructure.dll" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Infrastructure.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Infrastructure1.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Domain.pdb" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Domain.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Domain1.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Core.Domain/bin/Debug/net5.0/Compulsory.Core.Domain.pdb" />
+    <option name="AFTER_PATH" value="Compulsory.Core.Domain/bin/Debug/net5.0/Compulsory.Core.Domain.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Core.Domain1.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Core.Domain/bin/Debug/net5.0/Compulsory.Domain.pdb" />
+    <option name="AFTER_PATH" value="Compulsory.Core.Domain/bin/Debug/net5.0/Compulsory.Domain.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Domain2.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Infrastructure.pdb" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Infrastructure.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Infrastructure.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure.Test/bin/Debug/net5.0/Compulsory.Infrastructure.dll" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure.Test/bin/Debug/net5.0/Compulsory.Infrastructure.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Infrastructure2.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure.Test/bin/Debug/net5.0/Compulsory.Infrastructure.pdb" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure.Test/bin/Debug/net5.0/Compulsory.Infrastructure.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Infrastructure1.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure.Test/bin/Debug/net5.0/Compulsory.Infrastructure.Test.pdb" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure.Test/bin/Debug/net5.0/Compulsory.Infrastructure.Test.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Infrastructure.Test.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure.Test/obj/Debug/net5.0/Compulsory.Infrastructure.Test.pdb" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure.Test/obj/Debug/net5.0/Compulsory.Infrastructure.Test.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Infrastructure.Test1.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure.Test/obj/Debug/net5.0/Compulsory.Infrastructure.Test.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure.Test/obj/Debug/net5.0/Compulsory.Infrastructure.Test.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Infrastructure.Test.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Core/obj/Debug/net5.0/Compulsory.Core.pdb" />
+    <option name="AFTER_PATH" value="Compulsory.Core/obj/Debug/net5.0/Compulsory.Core.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Core2.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Core.Domain/bin/Debug/net5.0/Compulsory.Domain.dll" />
+    <option name="AFTER_PATH" value="Compulsory.Core.Domain/bin/Debug/net5.0/Compulsory.Domain.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Domain3.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure.Test/bin/Debug/net5.0/Compulsory.Infrastructure.Test.dll" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure.Test/bin/Debug/net5.0/Compulsory.Infrastructure.Test.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Infrastructure.Test.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure.Test/obj/Debug/net5.0/Compulsory.Infrastructure.Test.dll" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure.Test/obj/Debug/net5.0/Compulsory.Infrastructure.Test.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Infrastructure.Test1.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Core.Test/obj/Debug/net5.0/Compulsory.Core.Test.pdb" />
+    <option name="AFTER_PATH" value="Compulsory.Core.Test/obj/Debug/net5.0/Compulsory.Core.Test.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Core.Test.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Domain/bin/Debug/net5.0/Compulsory.Domain.pdb" />
+    <option name="AFTER_PATH" value="Compulsory.Domain/bin/Debug/net5.0/Compulsory.Domain.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Domain3.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure.Test/bin/Debug/net5.0/Compulsory.Core.dll" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure.Test/bin/Debug/net5.0/Compulsory.Core.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Core3.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Core.Test/bin/Debug/net5.0/Compulsory.Core.Test.pdb" />
+    <option name="AFTER_PATH" value="Compulsory.Core.Test/bin/Debug/net5.0/Compulsory.Core.Test.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Core.Test1.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Core.pdb" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Core.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Core3.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Core.Test/bin/Debug/net5.0/Compulsory.Core.dll" />
+    <option name="AFTER_PATH" value="Compulsory.Core.Test/bin/Debug/net5.0/Compulsory.Core.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Core4.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure/obj/Debug/net5.0/ref/Compulsory.Infrastructure.dll" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure/obj/Debug/net5.0/ref/Compulsory.Infrastructure.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Infrastructure3.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Core.Domain/bin/Debug/net5.0/Compulsory.Core.pdb" />
+    <option name="AFTER_PATH" value="Compulsory.Core.Domain/bin/Debug/net5.0/Compulsory.Core.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Core4.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure/obj/Debug/net5.0/Compulsory.Infrastructure.pdb" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure/obj/Debug/net5.0/Compulsory.Infrastructure.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Infrastructure2.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure/obj/project.nuget.cache" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure/obj/project.nuget.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/project.nuget3.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Core.Test/bin/Debug/net5.0/Compulsory.Core.Test.dll" />
+    <option name="AFTER_PATH" value="Compulsory.Core.Test/bin/Debug/net5.0/Compulsory.Core.Test.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Core.Test1.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Core.dll" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Core.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Core5.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure/bin/Debug/net5.0/ref/Compulsory.Infrastructure.dll" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure/bin/Debug/net5.0/ref/Compulsory.Infrastructure.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Infrastructure4.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure.Test/bin/Debug/net5.0/Compulsory.Core.pdb" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure.Test/bin/Debug/net5.0/Compulsory.Core.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Core5.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure.Test/bin/Debug/net5.0/Compulsory.Domain.pdb" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure.Test/bin/Debug/net5.0/Compulsory.Domain.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Domain4.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure.Test/bin/Debug/net5.0/Compulsory.Domain.dll" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure.Test/bin/Debug/net5.0/Compulsory.Domain.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Domain4.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Domain/bin/Debug/net5.0/Compulsory.Core.pdb" />
+    <option name="AFTER_PATH" value="Compulsory.Domain/bin/Debug/net5.0/Compulsory.Core.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Core6.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Core.Domain/obj/project.nuget.cache" />
+    <option name="AFTER_PATH" value="Compulsory.Core.Domain/obj/project.nuget.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/project.nuget4.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Core/obj/Debug/net5.0/Compulsory.Core.dll" />
+    <option name="AFTER_PATH" value="Compulsory.Core/obj/Debug/net5.0/Compulsory.Core.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/Compulsory.Core6.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Core.Test/obj/project.nuget.cache" />
+    <option name="AFTER_PATH" value="Compulsory.Core.Test/obj/project.nuget.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM_[Changes]/project.nuget5.cache" />
+  </binary>
+</changelist>
