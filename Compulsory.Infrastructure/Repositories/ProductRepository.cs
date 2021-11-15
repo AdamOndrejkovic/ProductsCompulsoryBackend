@@ -3,6 +3,7 @@ using System.IO;
 using System.Linq;
 using Compulsory.Core.Models;
 using Compulsory.Domain.IRepository;
+using Compulsory.Infrastructure.Entities;
 
 namespace Compulsory.Infrastructure.Repositories
 {
@@ -53,7 +54,14 @@ namespace Compulsory.Infrastructure.Repositories
 
         public bool CreateProduct(Product product)
         {
-            throw new System.NotImplementedException();
+            _compulsoryContext.Products.Add(new ProductEntity()
+            {
+                Name = product.Name,
+                Description = product.Description,
+                Price = product.Price
+            });
+            _compulsoryContext.SaveChanges();
+            return true;
         }
     }
 }
