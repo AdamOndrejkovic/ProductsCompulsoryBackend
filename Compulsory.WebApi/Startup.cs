@@ -10,6 +10,7 @@ using Compulsory.Infrastructure;
 using Compulsory.Infrastructure.Repositories;
 using Compulsory.Security;
 using Compulsory.Security.Authenticator;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -19,6 +20,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 
 namespace Compulsory.WebApi
@@ -35,6 +37,24 @@ namespace Compulsory.WebApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            
+            Byte[] secretBytes = new byte[40];
+            Random rand = new Random();
+            rand.NextBytes(secretBytes);
+            
+            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
+            {
+                options.TokenValidationParameters = new TokenValidationParameters()
+                {
+                    ValidateAudience = false,
+                    ValidateIssuer = false,
+                    ValidateIssuerSigningKey = true,
+                    IssuerSigningKey = new SymmetricSecurityKey(secretBytes),
+                    ValidateLifetime = true, //validate the expiration and not before values in the token
+                    ClockSkew = TimeSpan.FromMinutes(5) //5 minute tolerance for the expiration date
+                };
+            });
+            
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
@@ -60,7 +80,7 @@ namespace Compulsory.WebApi
                 opt =>
                 {
                     opt.UseLoggerFactory(loggerFactory)
-                        .UseSqlite("Data Source=petShop.db");
+                        .UseSqlite("Data Source=productShop.db");
                 }, ServiceLifetime.Transient
             );
             
@@ -70,8 +90,9 @@ namespace Compulsory.WebApi
             
             services.AddScoped<IAdminRepository,AdminRepository>();
             services.AddScoped<IProductRepository, ProductRepository>();
+            services.AddScoped<IUserRepository, UserRepository>();
             
-            services.AddScoped<IAuthenticationHelper,AuthenticationHelper>();
+            services.AddSingleton<IAuthenticationHelper>(new AuthenticationHelper(secretBytes));
             services.AddScoped<IAuthenticator, Authenticator>();
         }
 
@@ -84,6 +105,11 @@ namespace Compulsory.WebApi
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Compulsory.WebApi v1"));
                 app.UseCors("dev-cors");
+                using (var scope = app.ApplicationServices.CreateScope())
+                {
+                    var context = scope.ServiceProvider.GetService<CompulsoryContext>();
+                    DbInitialize.InitData(context);
+                }
             }
 
             app.UseHttpsRedirection();

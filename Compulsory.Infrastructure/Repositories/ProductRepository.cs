@@ -4,6 +4,7 @@ using System.Linq;
 using Compulsory.Core.Models;
 using Compulsory.Domain.IRepository;
 using Compulsory.Infrastructure.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace Compulsory.Infrastructure.Repositories
 {
@@ -40,11 +41,10 @@ namespace Compulsory.Infrastructure.Repositories
         }
 
         public bool UpdateProduct(Product product)
-        {
-            var productToUpdate = _compulsoryContext.Products.Where(p => p.Id == product.Id);
-            if (productToUpdate != null)
+        { 
+            if (product != null)
             {
-                _compulsoryContext.Update(productToUpdate);
+                _compulsoryContext.Attach(product).State = EntityState.Modified;
                 _compulsoryContext.SaveChanges();
                 return true;
             }
@@ -54,12 +54,13 @@ namespace Compulsory.Infrastructure.Repositories
 
         public bool CreateProduct(Product product)
         {
-            _compulsoryContext.Products.Add(new ProductEntity()
+            var productEntity = new ProductEntity()
             {
                 Name = product.Name,
                 Description = product.Description,
                 Price = product.Price
-            });
+            };
+            _compulsoryContext.Products.Attach(productEntity).State = EntityState.Added;
             _compulsoryContext.SaveChanges();
             return true;
         }
