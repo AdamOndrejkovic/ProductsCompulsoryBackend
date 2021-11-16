@@ -1,0 +1,79 @@
+<changelist name="Uncommitted_changes_before_Update_at_11_16_2021_6_26_PM_[Changes]" date="1637083582231" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_16_2021_6_26_PM_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 11/16/2021 6:26 PM [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.WebApi/productShop.db" />
+    <option name="AFTER_PATH" value="Compulsory.WebApi/productShop.db" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_16_2021_6_26_PM_[Changes]/productShop.db" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.WebApi/obj/Debug/net5.0/Compulsory.WebApi.dll" />
+    <option name="AFTER_PATH" value="Compulsory.WebApi/obj/Debug/net5.0/Compulsory.WebApi.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_16_2021_6_26_PM_[Changes]/Compulsory.WebApi.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Presentation.Test/obj/Debug/net5.0/Compulsory.Presentation.Test.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="Compulsory.Presentation.Test/obj/Debug/net5.0/Compulsory.Presentation.Test.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_16_2021_6_26_PM_[Changes]/Compulsory.Presentation.Test.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.WebApi/bin/Debug/net5.0/Compulsory.WebApi.pdb" />
+    <option name="AFTER_PATH" value="Compulsory.WebApi/bin/Debug/net5.0/Compulsory.WebApi.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_16_2021_6_26_PM_[Changes]/Compulsory.WebApi.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.WebApi/obj/Debug/net5.0/Compulsory.WebApi.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="Compulsory.WebApi/obj/Debug/net5.0/Compulsory.WebApi.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_16_2021_6_26_PM_[Changes]/Compulsory.WebApi.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.WebApi/obj/Debug/net5.0/ref/Compulsory.WebApi.dll" />
+    <option name="AFTER_PATH" value="Compulsory.WebApi/obj/Debug/net5.0/ref/Compulsory.WebApi.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_16_2021_6_26_PM_[Changes]/Compulsory.WebApi1.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Core/obj/Debug/net5.0/Compulsory.Core.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="Compulsory.Core/obj/Debug/net5.0/Compulsory.Core.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_16_2021_6_26_PM_[Changes]/Compulsory.Core.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.WebApi/bin/Debug/net5.0/ref/Compulsory.WebApi.dll" />
+    <option name="AFTER_PATH" value="Compulsory.WebApi/bin/Debug/net5.0/ref/Compulsory.WebApi.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_16_2021_6_26_PM_[Changes]/Compulsory.WebApi2.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.WebApi/obj/Debug/net5.0/Compulsory.WebApi.pdb" />
+    <option name="AFTER_PATH" value="Compulsory.WebApi/obj/Debug/net5.0/Compulsory.WebApi.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_16_2021_6_26_PM_[Changes]/Compulsory.WebApi1.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Security/obj/Debug/net5.0/Compulsory.Security.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="Compulsory.Security/obj/Debug/net5.0/Compulsory.Security.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_16_2021_6_26_PM_[Changes]/Compulsory.Security.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Core.Test/obj/Debug/net5.0/Compulsory.Core.Test.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="Compulsory.Core.Test/obj/Debug/net5.0/Compulsory.Core.Test.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_16_2021_6_26_PM_[Changes]/Compulsory.Core.Test.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure/obj/Debug/net5.0/Compulsory.Infrastructure.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure/obj/Debug/net5.0/Compulsory.Infrastructure.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_16_2021_6_26_PM_[Changes]/Compulsory.Infrastructure.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Domain/obj/Debug/net5.0/Compulsory.Domain.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="Compulsory.Domain/obj/Debug/net5.0/Compulsory.Domain.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_16_2021_6_26_PM_[Changes]/Compulsory.Domain.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.WebApi/bin/Debug/net5.0/Compulsory.WebApi.dll" />
+    <option name="AFTER_PATH" value="Compulsory.WebApi/bin/Debug/net5.0/Compulsory.WebApi.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_16_2021_6_26_PM_[Changes]/Compulsory.WebApi3.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Compulsory.Infrastructure.Test/obj/Debug/net5.0/Compulsory.Infrastructure.Test.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="Compulsory.Infrastructure.Test/obj/Debug/net5.0/Compulsory.Infrastructure.Test.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_16_2021_6_26_PM_[Changes]/Compulsory.Infrastructure.Test.csproj.AssemblyReference.cache" />
+  </binary>
+</changelist>
