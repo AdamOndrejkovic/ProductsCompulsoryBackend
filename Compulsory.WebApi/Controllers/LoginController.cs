@@ -18,7 +18,7 @@ namespace Compulsory.WebApi.Controllers
 
         [AllowAnonymous]
         [HttpPost]
-        public ActionResult Post([FromBody] LoginInputDto login)
+        public ActionResult Login([FromBody] LoginInputDto login)
         {
             string userToken;
             if (_authenticator.Login(login.Username,login.Password, out userToken))
@@ -29,8 +29,20 @@ namespace Compulsory.WebApi.Controllers
                         token = userToken
                     });
             }
-
             return Unauthorized("Unknown username and password combination");
+        }
+        
+        [AllowAnonymous]
+        [HttpPost]
+        public ActionResult Register([FromBody] LoginInputDto login)
+        {
+            var registered = _authenticator.Register(login.Username, login.Password);
+            if (registered)
+            {
+                return Ok();
+            }
+
+            return Unauthorized("Error occurred while registering");
         }
         
         

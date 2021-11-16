@@ -33,5 +33,20 @@ namespace Compulsory.Security.Authenticator
             token = _authenticationHelper.GenerateToken(admin);
             return true;
         }
+
+        public bool Register(string loginUsername, string loginPassword)
+        {
+
+            byte[] passwordHash;
+            byte[] passwordSalt;
+                _authenticationHelper.CreatePasswordHash(loginPassword, out passwordHash, out passwordSalt);
+            var registered =  _adminRepository.Register(loginUsername, passwordHash, passwordSalt);
+            if (registered)
+            {
+                return true;
+            }
+
+            return false;
+        }
     }
 }
