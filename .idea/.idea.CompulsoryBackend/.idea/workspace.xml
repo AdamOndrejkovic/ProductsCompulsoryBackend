@@ -5,7 +5,27 @@
     <projectFile profileName="Compulsory.WebApi">Compulsory.WebApi/Compulsory.WebApi.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f16e069f-b085-4430-91b3-440f926f68f9" name="Changes" comment="" />
+    <list default="true" id="f16e069f-b085-4430-91b3-440f926f68f9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Infrastructure/CompulsoryContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Infrastructure/CompulsoryContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Infrastructure/bin/Debug/net5.0/ref/Compulsory.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Infrastructure/bin/Debug/net5.0/ref/Compulsory.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Infrastructure/obj/Debug/net5.0/Compulsory.Infrastructure.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Infrastructure/obj/Debug/net5.0/Compulsory.Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Infrastructure/obj/Debug/net5.0/Compulsory.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Infrastructure/obj/Debug/net5.0/Compulsory.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Infrastructure/obj/Debug/net5.0/Compulsory.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Infrastructure/obj/Debug/net5.0/Compulsory.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Infrastructure/obj/Debug/net5.0/ref/Compulsory.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Infrastructure/obj/Debug/net5.0/ref/Compulsory.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.WebApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.WebApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.WebApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.WebApi.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/ref/Compulsory.WebApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/ref/Compulsory.WebApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/obj/Debug/net5.0/Compulsory.WebApi.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/obj/Debug/net5.0/Compulsory.WebApi.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/obj/Debug/net5.0/Compulsory.WebApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/obj/Debug/net5.0/Compulsory.WebApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/obj/Debug/net5.0/Compulsory.WebApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/obj/Debug/net5.0/Compulsory.WebApi.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/obj/Debug/net5.0/ref/Compulsory.WebApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/obj/Debug/net5.0/ref/Compulsory.WebApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/productShop.db" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/productShop.db" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +95,7 @@
       <workItem from="1636470863543" duration="15082000" />
       <workItem from="1636889232480" duration="7556000" />
       <workItem from="1636964714034" duration="1978000" />
+      <workItem from="1637064726183" duration="1726000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1636493255724</created>
@@ -111,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636966689884</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update">
+      <created>1637064838596</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1637064838596</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,9 +204,9 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Update" />
     <MESSAGE value="Working solution create,get,delete product works" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working solution create,get,delete product works" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
