@@ -71,5 +71,22 @@ namespace Compulsory.Infrastructure.Repositories
             _compulsoryContext.SaveChanges();
             return true;
         }
+
+        public Product GetProductById(int id)
+        {
+            var productById = _compulsoryContext.Products.FirstOrDefault(product => id.Equals(product.Id));
+            if (productById != null)
+            {
+                return new Product()
+                {
+                    Id = productById.Id,
+                    Name = productById.Name,
+                    Description = productById.Description,
+                    Price = productById.Price
+                };
+            }
+
+            return null;
+        }
     }
 }

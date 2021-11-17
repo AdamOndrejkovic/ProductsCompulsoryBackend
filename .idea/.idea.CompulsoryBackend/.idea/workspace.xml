@@ -6,22 +6,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f16e069f-b085-4430-91b3-440f926f68f9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_12_01_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_12_01_PM__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_15_2021_9_05_AM__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_16_2021_6_26_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_16_2021_6_26_PM__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CompulsoryBackend/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Core.Domain/obj/Debug/net5.0/Compulsory.Core.Domain.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Core.Domain/obj/Debug/net5.0/Compulsory.Core.Domain.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Core.Test/obj/Debug/net5.0/Compulsory.Core.Test.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Core.Test/obj/Debug/net5.0/Compulsory.Core.Test.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Core/IServices/IProductService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Core/IServices/IProductService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Core/bin/Debug/net5.0/Compulsory.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Core/bin/Debug/net5.0/Compulsory.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Core/bin/Debug/net5.0/Compulsory.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Core/bin/Debug/net5.0/Compulsory.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Core/bin/Debug/net5.0/ref/Compulsory.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Core/bin/Debug/net5.0/ref/Compulsory.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Core/obj/Debug/net5.0/Compulsory.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Core/obj/Debug/net5.0/Compulsory.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Core/obj/Debug/net5.0/Compulsory.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Core/obj/Debug/net5.0/Compulsory.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Core/obj/Debug/net5.0/ref/Compulsory.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Core/obj/Debug/net5.0/ref/Compulsory.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Domain/IRepository/IProductRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Domain/IRepository/IProductRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Domain/Services/ProductService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Domain/Services/ProductService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Domain/bin/Debug/net5.0/Compulsory.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Domain/bin/Debug/net5.0/Compulsory.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Domain/bin/Debug/net5.0/Compulsory.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Domain/bin/Debug/net5.0/Compulsory.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Domain/bin/Debug/net5.0/Compulsory.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Domain/bin/Debug/net5.0/Compulsory.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Domain/bin/Debug/net5.0/Compulsory.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Domain/bin/Debug/net5.0/Compulsory.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Domain/bin/Debug/net5.0/ref/Compulsory.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Domain/bin/Debug/net5.0/ref/Compulsory.Domain.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Compulsory.Domain/obj/Debug/net5.0/Compulsory.Domain.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Domain/obj/Debug/net5.0/Compulsory.Domain.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Domain/obj/Debug/net5.0/Compulsory.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Domain/obj/Debug/net5.0/Compulsory.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Domain/obj/Debug/net5.0/Compulsory.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Domain/obj/Debug/net5.0/Compulsory.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Domain/obj/Debug/net5.0/ref/Compulsory.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Domain/obj/Debug/net5.0/ref/Compulsory.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Infrastructure.Test/obj/Debug/net5.0/Compulsory.Infrastructure.Test.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Infrastructure.Test/obj/Debug/net5.0/Compulsory.Infrastructure.Test.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Infrastructure/Repositories/AdminRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Infrastructure/Repositories/AdminRepository.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Compulsory.Infrastructure/Repositories/ProductRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Infrastructure/Repositories/ProductRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Domain.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Infrastructure.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Infrastructure/bin/Debug/net5.0/Compulsory.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Infrastructure/bin/Debug/net5.0/ref/Compulsory.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Infrastructure/bin/Debug/net5.0/ref/Compulsory.Infrastructure.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Compulsory.Infrastructure/obj/Debug/net5.0/Compulsory.Infrastructure.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Infrastructure/obj/Debug/net5.0/Compulsory.Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Compulsory.Infrastructure/obj/Debug/net5.0/Compulsory.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Infrastructure/obj/Debug/net5.0/Compulsory.Infrastructure.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Compulsory.Infrastructure/obj/Debug/net5.0/Compulsory.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Infrastructure/obj/Debug/net5.0/Compulsory.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Infrastructure/obj/Debug/net5.0/ref/Compulsory.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Infrastructure/obj/Debug/net5.0/ref/Compulsory.Infrastructure.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Compulsory.Presentation.Test/obj/Debug/net5.0/Compulsory.Presentation.Test.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Presentation.Test/obj/Debug/net5.0/Compulsory.Presentation.Test.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Security/Authenticator/Authenticator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Security/Authenticator/Authenticator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Security/bin/Debug/net5.0/Compulsory.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Security/bin/Debug/net5.0/Compulsory.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Security/bin/Debug/net5.0/Compulsory.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Security/bin/Debug/net5.0/Compulsory.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Security/bin/Debug/net5.0/Compulsory.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Security/bin/Debug/net5.0/Compulsory.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Security/bin/Debug/net5.0/Compulsory.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Security/bin/Debug/net5.0/Compulsory.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Security/bin/Debug/net5.0/Compulsory.Security.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Security/bin/Debug/net5.0/Compulsory.Security.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Security/bin/Debug/net5.0/Compulsory.Security.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Security/bin/Debug/net5.0/Compulsory.Security.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Compulsory.Security/obj/Debug/net5.0/Compulsory.Security.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Security/obj/Debug/net5.0/Compulsory.Security.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/Controllers/LoginController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/Controllers/LoginController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Security/obj/Debug/net5.0/Compulsory.Security.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Security/obj/Debug/net5.0/Compulsory.Security.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.Security/obj/Debug/net5.0/Compulsory.Security.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.Security/obj/Debug/net5.0/Compulsory.Security.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/Controllers/ProductController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/Controllers/ProductController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.Domain.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.Infrastructure.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.Security.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.Security.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.Security.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.Security.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.WebApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.WebApi.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.WebApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/Compulsory.WebApi.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/ref/Compulsory.WebApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/bin/Debug/net5.0/ref/Compulsory.WebApi.dll" afterDir="false" />
@@ -30,7 +69,6 @@
       <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/obj/Debug/net5.0/Compulsory.WebApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/obj/Debug/net5.0/Compulsory.WebApi.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/obj/Debug/net5.0/ref/Compulsory.WebApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/obj/Debug/net5.0/ref/Compulsory.WebApi.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Compulsory.WebApi/productShop.db" beforeDir="false" afterPath="$PROJECT_DIR$/Compulsory.WebApi/productShop.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CompulsoryBackend.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/CompulsoryBackend.sln.DotSettings.user" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +79,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/ed92340b5670447ab78a69a564a858d31bfb88/34/InternalEntityEntry.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8ebba8924d4040c3ba71e44636714cce66578/f4/95cec4e3/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Compulsory.Presentation.Test/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="20g8IMzxFoUYAzyv3NSRBb73yoN" />
@@ -54,6 +94,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34976044" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -107,7 +149,8 @@
       <workItem from="1637064726183" duration="1726000" />
       <workItem from="1637097293462" duration="341000" />
       <workItem from="1637136421149" duration="238000" />
-      <workItem from="1637137126309" duration="1501000" />
+      <workItem from="1637137126309" duration="4277000" />
+      <workItem from="1637150265446" duration="2612000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1636493255724</created>
@@ -165,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637097629055</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Fix">
+      <created>1637138663845</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1637138663845</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,7 +283,8 @@
     <MESSAGE value="Working solution create,get,delete product works" />
     <MESSAGE value="Update" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="Fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

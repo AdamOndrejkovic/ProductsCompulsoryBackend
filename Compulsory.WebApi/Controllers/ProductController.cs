@@ -39,15 +39,22 @@ namespace Compulsory.WebApi.Controllers
         {
             return _service.GetAllProducts();
         }
-
-        [HttpPut("{id}")]
-        public ActionResult<Product> UpdateProduct(int id,[FromBody] Product product)
+        
+        [HttpGet("{id}")]
+        public ActionResult<Product> GetProductById(int id)
         {
-            if (id < 1 || id != product.Id)
+            var productById = _service.GetProductById(id);
+            if (productById != null)
             {
-                return BadRequest("Parameter Id and product Id must be the same");
+                return productById;
             }
-            
+
+            return BadRequest("Product was not found");
+        }
+
+        [HttpPut]
+        public ActionResult<Product> UpdateProduct([FromBody] Product product)
+        {
             var updateProduct = _service.UpdateProduct(product);
             if (updateProduct)
             {

@@ -21,6 +21,7 @@ namespace Compulsory.Infrastructure.Repositories
                 new Admin()
                 {
                     Id = a.Id,
+                    Username =a.Username,
                     PasswordHash = a.PasswordHash,
                     PasswordSalt = a.PasswordSalt,
                     CanCreate = a.CanCreate,

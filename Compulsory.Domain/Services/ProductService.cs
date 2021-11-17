@@ -34,5 +34,10 @@ namespace Compulsory.Domain.Services
         {
             return _productRepository.UpdateProduct(product);
         }
+
+        public Product GetProductById(int id)
+        {
+            return _productRepository.GetProductById(id);
+        }
     }
 }

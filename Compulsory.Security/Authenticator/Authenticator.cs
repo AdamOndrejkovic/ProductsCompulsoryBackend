@@ -17,7 +17,7 @@ namespace Compulsory.Security.Authenticator
         
         public bool Login(string username, string password, out string token)
         {
-            Admin admin = _adminRepository.GetAll().FirstOrDefault(admin => admin.Username.Equals(username));
+            Admin admin = _adminRepository.GetAll().FirstOrDefault(admin => username.Equals(admin.Username));
             if (admin == null)
             {
                 token = null;

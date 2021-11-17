@@ -9,5 +9,6 @@ namespace Compulsory.Domain.IRepository
         bool DeleteProduct(int id); 
         bool UpdateProduct(Product product);
         bool CreateProduct(Product product);
+        Product GetProductById(int id);
     }
 }
