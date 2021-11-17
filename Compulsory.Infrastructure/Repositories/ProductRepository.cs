@@ -42,9 +42,16 @@ namespace Compulsory.Infrastructure.Repositories
 
         public bool UpdateProduct(Product product)
         { 
-            if (product != null)
+            var productEntity = new ProductEntity()
             {
-                _compulsoryContext.Attach(product).State = EntityState.Modified;
+                Id = product.Id,
+                Name = product.Name,
+                Description = product.Description,
+                Price = product.Price
+            };
+            if (productEntity != null)
+            {
+                _compulsoryContext.Attach(productEntity).State = EntityState.Modified;
                 _compulsoryContext.SaveChanges();
                 return true;
             }

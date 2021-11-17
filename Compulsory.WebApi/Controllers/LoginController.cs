@@ -17,7 +17,7 @@ namespace Compulsory.WebApi.Controllers
         }
 
         [AllowAnonymous]
-        [HttpPost]
+        [HttpPost(nameof(Login))]
         public ActionResult Login([FromBody] LoginInputDto login)
         {
             string userToken;
@@ -33,7 +33,7 @@ namespace Compulsory.WebApi.Controllers
         }
         
         [AllowAnonymous]
-        [HttpPost]
+        [HttpPost(nameof(Register))]
         public ActionResult Register([FromBody] LoginInputDto login)
         {
             var registered = _authenticator.Register(login.Username, login.Password);
